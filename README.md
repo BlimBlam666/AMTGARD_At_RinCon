@@ -1,16 +1,19 @@
 # AMTGARD at RinCon
 
-A mobile-friendly static webpage introducing Amtgard and the Duchy of Obsidian Gate to RinCon attendees.
+A mobile-friendly companion site for the Duchy of Obsidian Gate's Amtgard presence at RinCon in Tucson.
 
-## Live website
+The site is designed as the digital extension of the convention booth: visitors can learn the core combat rules, explore Amtgard classes and non-combat activities, see common equipment, learn about the Academy of Mercenary Arts launch, and find the next step for joining Obsidian Gate after RinCon.
+
+## Live site
 
 https://blimblam666.github.io/AMTGARD_At_RinCon/
 
-## Included information
+## Local chapter
 
-- RinCon booth location near the north-side exit
-- Sword-making and throwie workshops
-- Combat demonstrations and beginner information
-- Direct links and a QR code for the Obsidian Gate Facebook group
+Obsidian Gate Facebook group: https://www.facebook.com/groups/ObsidianGate
+
+## Rules note
+
+The website presents a newcomer-friendly summary. Current Amtgard Rules of Play and official clarifications govern actual play. The Academy of Mercenary Arts is a local training initiative.
 
 The site deploys automatically to GitHub Pages whenever the `main` branch is updated.
